@@ -7,3 +7,4 @@ Yet another line
 789
 Add line
 new branch line
+second line
